@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.exe
+D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.deps.json
+D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.dll
+D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.pdb
+D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.dll
+D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.pdb
+D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.genruntimeconfig.cache
