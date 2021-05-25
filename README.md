@@ -1,5 +1,5 @@
 # Algorithm
-演算法之紀錄
+Records for Algorithm.
 
 ### 排序演算法
 - 氣泡排序法（Bubble Sort）
