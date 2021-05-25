@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\StackList\bin\Debug\netcoreapp3.1\StackList.exe
+D:\2.Project\SideProject\Algorithm\StackList\bin\Debug\netcoreapp3.1\StackList.deps.json
+D:\2.Project\SideProject\Algorithm\StackList\bin\Debug\netcoreapp3.1\StackList.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\StackList\bin\Debug\netcoreapp3.1\StackList.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\StackList\bin\Debug\netcoreapp3.1\StackList.dll
+D:\2.Project\SideProject\Algorithm\StackList\bin\Debug\netcoreapp3.1\StackList.pdb
+D:\2.Project\SideProject\Algorithm\StackList\obj\Debug\netcoreapp3.1\StackList.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\StackList\obj\Debug\netcoreapp3.1\StackList.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\StackList\obj\Debug\netcoreapp3.1\StackList.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\StackList\obj\Debug\netcoreapp3.1\StackList.dll
+D:\2.Project\SideProject\Algorithm\StackList\obj\Debug\netcoreapp3.1\StackList.pdb
+D:\2.Project\SideProject\Algorithm\StackList\obj\Debug\netcoreapp3.1\StackList.genruntimeconfig.cache
