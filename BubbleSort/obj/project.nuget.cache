@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrmLkeHOhcJkf9+ZOSTa7bDCwQil1UE6Lh6kzQybEnA6+Fg0c287tY+b3oE+CntM+WZv4KzDt5YmQqAuFM6m1w==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\BubbleSort\\BubbleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

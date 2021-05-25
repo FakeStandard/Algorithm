@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolationSearch", "Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequentialSearch", "SequentialSearch\SequentialSearch.csproj", "{B403D5E3-F527-4594-8157-0FAD1D5F59F4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SortingAlgorithm", "SortingAlgorithm", "{75876B58-A2BB-4554-B8EE-72F5B02DE18A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{F7E35C58-31AC-44BA-B481-2F5C1E579066}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,10 @@ Global
 		{B403D5E3-F527-4594-8157-0FAD1D5F59F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B403D5E3-F527-4594-8157-0FAD1D5F59F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B403D5E3-F527-4594-8157-0FAD1D5F59F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E35C58-31AC-44BA-B481-2F5C1E579066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E35C58-31AC-44BA-B481-2F5C1E579066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E35C58-31AC-44BA-B481-2F5C1E579066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E35C58-31AC-44BA-B481-2F5C1E579066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +45,7 @@ Global
 		{1332C4C5-7957-4FF0-A76D-102E21FBC6B2} = {CB55527D-0A59-4AC5-A46F-A10C273A4561}
 		{4AC889B1-9F8B-410B-97A1-B0D15869BFD6} = {CB55527D-0A59-4AC5-A46F-A10C273A4561}
 		{B403D5E3-F527-4594-8157-0FAD1D5F59F4} = {CB55527D-0A59-4AC5-A46F-A10C273A4561}
+		{F7E35C58-31AC-44BA-B481-2F5C1E579066} = {75876B58-A2BB-4554-B8EE-72F5B02DE18A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F58DDB3-8273-4EE6-9243-1D2971C1BED1}
