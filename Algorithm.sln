@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\Quic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadixSort", "RadixSort\RadixSort.csproj", "{CFB3B724-2C21-44DC-ACDE-B4EE99D5E608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{720A41DF-CD91-449F-AA88-97ADF78FA32E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{CFB3B724-2C21-44DC-ACDE-B4EE99D5E608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB3B724-2C21-44DC-ACDE-B4EE99D5E608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB3B724-2C21-44DC-ACDE-B4EE99D5E608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720A41DF-CD91-449F-AA88-97ADF78FA32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720A41DF-CD91-449F-AA88-97ADF78FA32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720A41DF-CD91-449F-AA88-97ADF78FA32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720A41DF-CD91-449F-AA88-97ADF78FA32E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{E7FE7996-233B-47BC-B6E6-F93314DAB337} = {75876B58-A2BB-4554-B8EE-72F5B02DE18A}
 		{8D26B6A7-34A0-474C-A1C1-4229EE2A3A1F} = {75876B58-A2BB-4554-B8EE-72F5B02DE18A}
 		{CFB3B724-2C21-44DC-ACDE-B4EE99D5E608} = {75876B58-A2BB-4554-B8EE-72F5B02DE18A}
+		{720A41DF-CD91-449F-AA88-97ADF78FA32E} = {75876B58-A2BB-4554-B8EE-72F5B02DE18A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F58DDB3-8273-4EE6-9243-1D2971C1BED1}
