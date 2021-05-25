@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.exe
+D:\2.Project\SideProject\Algorithm\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.deps.json
+D:\2.Project\SideProject\Algorithm\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.dll
+D:\2.Project\SideProject\Algorithm\InsertSort\bin\Debug\netcoreapp3.1\InsertSort.pdb
+D:\2.Project\SideProject\Algorithm\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.dll
+D:\2.Project\SideProject\Algorithm\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.pdb
+D:\2.Project\SideProject\Algorithm\InsertSort\obj\Debug\netcoreapp3.1\InsertSort.genruntimeconfig.cache
