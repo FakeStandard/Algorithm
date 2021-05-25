@@ -1,0 +1,13 @@
+D:\2.Project\SideProject\Algorithm\Linear\bin\Debug\netcoreapp3.1\Linear.exe
+D:\2.Project\SideProject\Algorithm\Linear\bin\Debug\netcoreapp3.1\Linear.deps.json
+D:\2.Project\SideProject\Algorithm\Linear\bin\Debug\netcoreapp3.1\Linear.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\Linear\bin\Debug\netcoreapp3.1\Linear.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\Linear\bin\Debug\netcoreapp3.1\Linear.dll
+D:\2.Project\SideProject\Algorithm\Linear\bin\Debug\netcoreapp3.1\Linear.pdb
+D:\2.Project\SideProject\Algorithm\Linear\obj\Debug\netcoreapp3.1\Linear.csprojAssemblyReference.cache
+D:\2.Project\SideProject\Algorithm\Linear\obj\Debug\netcoreapp3.1\Linear.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\Linear\obj\Debug\netcoreapp3.1\Linear.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\Linear\obj\Debug\netcoreapp3.1\Linear.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\Linear\obj\Debug\netcoreapp3.1\Linear.dll
+D:\2.Project\SideProject\Algorithm\Linear\obj\Debug\netcoreapp3.1\Linear.pdb
+D:\2.Project\SideProject\Algorithm\Linear\obj\Debug\netcoreapp3.1\Linear.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qfqM9IELGDb1Id2X9Fho4RKGvBeN35U4IFTQjZGUPS23HZ0+gELh+KynE5U08nOMEfSLkyCZJ6kpOEYaXfToWw==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\Linear\\Linear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
