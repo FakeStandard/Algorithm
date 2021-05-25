@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "glxP1VnAweMhdZ1WiQACVZtXI5lIXGtgIIQHj/LSvmGnaTmMqQX9sCbgqM3HkgpEdmYKeg3fgbaeu20BNQx06Q==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\SequentialSearch\\SequentialSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
