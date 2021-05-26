@@ -51,6 +51,7 @@ https://fakestandard.github.io/algorithm/
 ### 陣列應用
 - 矩陣相加（Matrix Add）
 - 矩陣相乘（Matrix Multiply）
+- 轉置矩陣（Matrix Transpose）
 - 多項式陣列表示法（Polynomial）
 
 ### 雜湊應用

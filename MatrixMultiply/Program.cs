@@ -27,7 +27,7 @@ namespace MatrixMultiply
             WriteLine("\n=======矩陣 B 元素=======\n");
             Print(ref B);
 
-            // 進行矩陣相加
+            // 進行矩陣相乘
             Matrix_Multiply(ref A, ref B, ref C);
 
             // 輸出 C 矩陣結果

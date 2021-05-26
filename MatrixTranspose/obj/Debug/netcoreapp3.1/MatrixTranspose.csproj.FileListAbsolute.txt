@@ -1,0 +1,13 @@
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\bin\Debug\netcoreapp3.1\MatrixTranspose.exe
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\bin\Debug\netcoreapp3.1\MatrixTranspose.deps.json
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\bin\Debug\netcoreapp3.1\MatrixTranspose.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\bin\Debug\netcoreapp3.1\MatrixTranspose.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\bin\Debug\netcoreapp3.1\MatrixTranspose.dll
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\bin\Debug\netcoreapp3.1\MatrixTranspose.pdb
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\obj\Debug\netcoreapp3.1\MatrixTranspose.csprojAssemblyReference.cache
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\obj\Debug\netcoreapp3.1\MatrixTranspose.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\obj\Debug\netcoreapp3.1\MatrixTranspose.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\obj\Debug\netcoreapp3.1\MatrixTranspose.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\obj\Debug\netcoreapp3.1\MatrixTranspose.dll
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\obj\Debug\netcoreapp3.1\MatrixTranspose.pdb
+D:\2.Project\SideProject\Algorithm\MatrixTranspose\obj\Debug\netcoreapp3.1\MatrixTranspose.genruntimeconfig.cache
