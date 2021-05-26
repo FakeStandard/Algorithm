@@ -49,6 +49,8 @@ https://fakestandard.github.io/algorithm/
 - 雙向佇列（Double-ends Queues, Deques）
 
 ### 陣列應用
+- 矩陣相加（Matrix Add）
+- 矩陣相乘（Matrix Multiply）
 - 多項式陣列表示法（Polynomial）
 
 ### 雜湊應用

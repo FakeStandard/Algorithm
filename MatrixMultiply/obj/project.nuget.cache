@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Pz/FTpHhVFjVI1TcSHPvy7T+p7DBBDk47k96lPN0xA0/bxM8TONeo0OYMWDRhLkgioJDzRRo6S7ayqOsJXoTA==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\MatrixMultiply\\MatrixMultiply.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
