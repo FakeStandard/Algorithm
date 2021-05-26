@@ -48,6 +48,9 @@ https://fakestandard.github.io/algorithm/
 - 串列實作佇列（List implementation of Queue）
 - 雙向佇列（Double-ends Queues, Deques）
 
+### 陣列應用
+- 多項式陣列表示法（Polynomial）
+
 ### 雜湊應用
 - 安全性演算法（Security Algorithm）
 - 雜湊演算法（Hash Algorithm）
