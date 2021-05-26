@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiply", "MatrixMul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTranspose", "MatrixTranspose\MatrixTranspose.csproj", "{3CF45F6C-B245-407E-B36B-1135DB195008}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSparse", "MatrixSparse\MatrixSparse.csproj", "{B1442771-4DF2-4F1E-9A21-9894EC8AD810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{3CF45F6C-B245-407E-B36B-1135DB195008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF45F6C-B245-407E-B36B-1135DB195008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF45F6C-B245-407E-B36B-1135DB195008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1442771-4DF2-4F1E-9A21-9894EC8AD810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1442771-4DF2-4F1E-9A21-9894EC8AD810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1442771-4DF2-4F1E-9A21-9894EC8AD810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1442771-4DF2-4F1E-9A21-9894EC8AD810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -194,6 +200,7 @@ Global
 		{9073EC0E-67AD-4B30-9545-F1CA78EF4A75} = {9E5569C5-57E4-4F7D-9368-9B9DD9C840CA}
 		{F40DC454-A3D0-4540-BC7C-7CF5CD698DE0} = {9E5569C5-57E4-4F7D-9368-9B9DD9C840CA}
 		{3CF45F6C-B245-407E-B36B-1135DB195008} = {9E5569C5-57E4-4F7D-9368-9B9DD9C840CA}
+		{B1442771-4DF2-4F1E-9A21-9894EC8AD810} = {9E5569C5-57E4-4F7D-9368-9B9DD9C840CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F58DDB3-8273-4EE6-9243-1D2971C1BED1}
