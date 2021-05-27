@@ -39,20 +39,6 @@ namespace ArrayImplementationOfTree
 
             WriteLine();
 
-            // 將陣列的值轉換成完美二元樹
-            //for (i = 0; i < data.Length; i++)
-            //{
-            //    for (level = 1; btree[level] != 0;)
-            //    {
-            //        if (data[i] > btree[level])
-            //            level = level * 2 + 1;
-            //        else
-            //            level = level * 2;
-            //    }
-
-            //    btree[level] = data[i];
-            //}
-
             WriteLine("完滿二元樹: ");
             for (i = 1; i < btree.Length; i++)
             {
