@@ -55,6 +55,10 @@ https://fakestandard.github.io/algorithm/
 - 稀疏矩陣（Sparse Matrix）
 - 多項式陣列表示法（Polynomial）
 
+### 鏈結串列應用
+- 單向串列插入節點演算法（Linked List Insert）
+- 單向串列刪除節點演算法（Linked List Delete）
+
 ### 雜湊應用
 - 安全性演算法（Security Algorithm）
 - 雜湊演算法（Hash Algorithm）
