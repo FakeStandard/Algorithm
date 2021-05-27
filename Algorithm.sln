@@ -5,69 +5,71 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchAlgorithm", "SearchAlgorithm", "{CB55527D-0A59-4AC5-A46F-A10C273A4561}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{1332C4C5-7957-4FF0-A76D-102E21FBC6B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{1332C4C5-7957-4FF0-A76D-102E21FBC6B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolationSearch", "InterpolationSearch\InterpolationSearch.csproj", "{4AC889B1-9F8B-410B-97A1-B0D15869BFD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpolationSearch", "InterpolationSearch\InterpolationSearch.csproj", "{4AC889B1-9F8B-410B-97A1-B0D15869BFD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequentialSearch", "SequentialSearch\SequentialSearch.csproj", "{B403D5E3-F527-4594-8157-0FAD1D5F59F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequentialSearch", "SequentialSearch\SequentialSearch.csproj", "{B403D5E3-F527-4594-8157-0FAD1D5F59F4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SortingAlgorithm", "SortingAlgorithm", "{75876B58-A2BB-4554-B8EE-72F5B02DE18A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{F7E35C58-31AC-44BA-B481-2F5C1E579066}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{F7E35C58-31AC-44BA-B481-2F5C1E579066}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapTreeSort", "HeapTreeSort\HeapTreeSort.csproj", "{81A3A4FA-CB20-441B-9552-551238C4FCAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeapTreeSort", "HeapTreeSort\HeapTreeSort.csproj", "{81A3A4FA-CB20-441B-9552-551238C4FCAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertSort", "InsertSort\InsertSort.csproj", "{B77FE7AC-2B68-442E-B48F-5EF88A1025DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertSort", "InsertSort\InsertSort.csproj", "{B77FE7AC-2B68-442E-B48F-5EF88A1025DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{E7FE7996-233B-47BC-B6E6-F93314DAB337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSort", "MergeSort\MergeSort.csproj", "{E7FE7996-233B-47BC-B6E6-F93314DAB337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{8D26B6A7-34A0-474C-A1C1-4229EE2A3A1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "QuickSort\QuickSort.csproj", "{8D26B6A7-34A0-474C-A1C1-4229EE2A3A1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadixSort", "RadixSort\RadixSort.csproj", "{CFB3B724-2C21-44DC-ACDE-B4EE99D5E608}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RadixSort", "RadixSort\RadixSort.csproj", "{CFB3B724-2C21-44DC-ACDE-B4EE99D5E608}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{720A41DF-CD91-449F-AA88-97ADF78FA32E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{720A41DF-CD91-449F-AA88-97ADF78FA32E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellSort", "ShellSort\ShellSort.csproj", "{C37E850D-560C-4FA9-8D54-CC939153DAB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShellSort", "ShellSort\ShellSort.csproj", "{C37E850D-560C-4FA9-8D54-CC939153DAB7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationStack", "ImplementationStack", "{9BE0628F-1CE6-4C96-B1AE-77A6486F82B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackArray", "StackArray\StackArray.csproj", "{B908D900-03E1-4544-B92E-A662E38D84F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackArray", "StackArray\StackArray.csproj", "{B908D900-03E1-4544-B92E-A662E38D84F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackList", "StackList\StackList.csproj", "{1D6A4363-A440-4FDC-B5B8-370CC959EC02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackList", "StackList\StackList.csproj", "{1D6A4363-A440-4FDC-B5B8-370CC959EC02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueens", "EightQueens\EightQueens.csproj", "{8EF3F7BD-94DC-4DA0-9F31-F5A27A617A9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EightQueens", "EightQueens\EightQueens.csproj", "{8EF3F7BD-94DC-4DA0-9F31-F5A27A617A9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{93C0D236-D62D-4F79-8BE9-891753A95F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{93C0D236-D62D-4F79-8BE9-891753A95F38}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationQueue", "ImplementationQueue", "{057F9178-A404-45FD-B8B7-5AF0B8E02EFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueArray", "QueueArray\QueueArray.csproj", "{2F6EFEF5-3D2A-4BC7-A76F-E4D757DE63AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueArray", "QueueArray\QueueArray.csproj", "{2F6EFEF5-3D2A-4BC7-A76F-E4D757DE63AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueList", "QueueList\QueueList.csproj", "{ED1EBD6D-498A-47E8-A730-89FC60B940BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueList", "QueueList\QueueList.csproj", "{ED1EBD6D-498A-47E8-A730-89FC60B940BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuffle", "Shuffle\Shuffle.csproj", "{CA634775-0B6A-4E61-A0FD-AC4D59E773A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shuffle", "Shuffle\Shuffle.csproj", "{CA634775-0B6A-4E61-A0FD-AC4D59E773A4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationHash", "ImplementationHash", "{DE23A0CF-8014-4DE5-A2A2-CBE6C32F6D38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear", "Linear\Linear.csproj", "{5E87A0E5-42FE-42D8-8809-A8DE0A647697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linear", "Linear\Linear.csproj", "{5E87A0E5-42FE-42D8-8809-A8DE0A647697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{1A8146AC-73B3-42A8-9E78-445A75B047D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedList", "LinkedList\LinkedList.csproj", "{1A8146AC-73B3-42A8-9E78-445A75B047D4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationArray", "ImplementationArray", "{9E5569C5-57E4-4F7D-9368-9B9DD9C840CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polynomial", "Polynomial\Polynomial.csproj", "{3843FF36-077C-41C3-96F8-B58C882D6BB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polynomial", "Polynomial\Polynomial.csproj", "{3843FF36-077C-41C3-96F8-B58C882D6BB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixAdd", "MatrixAdd\MatrixAdd.csproj", "{9073EC0E-67AD-4B30-9545-F1CA78EF4A75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixAdd", "MatrixAdd\MatrixAdd.csproj", "{9073EC0E-67AD-4B30-9545-F1CA78EF4A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiply", "MatrixMultiply\MatrixMultiply.csproj", "{F40DC454-A3D0-4540-BC7C-7CF5CD698DE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixMultiply", "MatrixMultiply\MatrixMultiply.csproj", "{F40DC454-A3D0-4540-BC7C-7CF5CD698DE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixTranspose", "MatrixTranspose\MatrixTranspose.csproj", "{3CF45F6C-B245-407E-B36B-1135DB195008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixTranspose", "MatrixTranspose\MatrixTranspose.csproj", "{3CF45F6C-B245-407E-B36B-1135DB195008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixSparse", "MatrixSparse\MatrixSparse.csproj", "{B1442771-4DF2-4F1E-9A21-9894EC8AD810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixSparse", "MatrixSparse\MatrixSparse.csproj", "{B1442771-4DF2-4F1E-9A21-9894EC8AD810}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationLinkedList", "ImplementationLinkedList", "{7CE6D40C-7A9F-463F-878E-2E36E6F95E32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListInsert", "LinkedListInsert\LinkedListInsert.csproj", "{A2B0D6BA-C19F-46A9-958C-7D423D3423C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListInsert", "LinkedListInsert\LinkedListInsert.csproj", "{A2B0D6BA-C19F-46A9-958C-7D423D3423C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListDelete", "LinkedListDelete\LinkedListDelete.csproj", "{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -179,6 +181,10 @@ Global
 		{A2B0D6BA-C19F-46A9-958C-7D423D3423C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2B0D6BA-C19F-46A9-958C-7D423D3423C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2B0D6BA-C19F-46A9-958C-7D423D3423C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -210,6 +216,7 @@ Global
 		{3CF45F6C-B245-407E-B36B-1135DB195008} = {9E5569C5-57E4-4F7D-9368-9B9DD9C840CA}
 		{B1442771-4DF2-4F1E-9A21-9894EC8AD810} = {9E5569C5-57E4-4F7D-9368-9B9DD9C840CA}
 		{A2B0D6BA-C19F-46A9-958C-7D423D3423C7} = {7CE6D40C-7A9F-463F-878E-2E36E6F95E32}
+		{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14} = {7CE6D40C-7A9F-463F-878E-2E36E6F95E32}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F58DDB3-8273-4EE6-9243-1D2971C1BED1}
