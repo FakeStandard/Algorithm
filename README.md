@@ -64,3 +64,7 @@ https://fakestandard.github.io/algorithm/
 - 安全性演算法（Security Algorithm）
 - 雜湊演算法（Hash Algorithm）
 - 碰撞與溢位處理（Collision and Overflow）
+
+### 樹的應用
+- 陣列實作二元樹（Array Implementation of Binary Tree）
+- 串列實作二元樹（Linked List Implementation of Binary Tree）

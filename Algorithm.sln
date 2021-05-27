@@ -69,9 +69,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationLinkedList", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListInsert", "LinkedListInsert\LinkedListInsert.csproj", "{A2B0D6BA-C19F-46A9-958C-7D423D3423C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListDelete", "LinkedListDelete\LinkedListDelete.csproj", "{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListDelete", "LinkedListDelete\LinkedListDelete.csproj", "{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListReverse", "LinkedListReverse\LinkedListReverse.csproj", "{8895B3D4-7980-4559-9B6C-80B3A0FF7C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedListReverse", "LinkedListReverse\LinkedListReverse.csproj", "{8895B3D4-7980-4559-9B6C-80B3A0FF7C42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationTree", "ImplementationTree", "{DD2114DB-8201-495F-886E-90297B78BC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayImplementationOfTree", "ArrayImplementationOfTree\ArrayImplementationOfTree.csproj", "{CB053225-7355-493C-A94C-08DBB105E6FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -191,6 +195,10 @@ Global
 		{8895B3D4-7980-4559-9B6C-80B3A0FF7C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8895B3D4-7980-4559-9B6C-80B3A0FF7C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8895B3D4-7980-4559-9B6C-80B3A0FF7C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB053225-7355-493C-A94C-08DBB105E6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB053225-7355-493C-A94C-08DBB105E6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB053225-7355-493C-A94C-08DBB105E6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB053225-7355-493C-A94C-08DBB105E6FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -224,6 +232,7 @@ Global
 		{A2B0D6BA-C19F-46A9-958C-7D423D3423C7} = {7CE6D40C-7A9F-463F-878E-2E36E6F95E32}
 		{AD45B3D4-7D01-421C-A0C7-C03FCDF17A14} = {7CE6D40C-7A9F-463F-878E-2E36E6F95E32}
 		{8895B3D4-7980-4559-9B6C-80B3A0FF7C42} = {7CE6D40C-7A9F-463F-878E-2E36E6F95E32}
+		{CB053225-7355-493C-A94C-08DBB105E6FB} = {DD2114DB-8201-495F-886E-90297B78BC22}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F58DDB3-8273-4EE6-9243-1D2971C1BED1}
