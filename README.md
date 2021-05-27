@@ -56,8 +56,9 @@ https://fakestandard.github.io/algorithm/
 - 多項式陣列表示法（Polynomial）
 
 ### 鏈結串列應用
-- 單向串列插入節點演算法（Linked List Insert）
+- 單向串列插入節點與連結兩串列演算法（Linked List Insert And Concatenation）
 - 單向串列刪除節點演算法（Linked List Delete）
+- 單向串列反轉演算法（Linked List Reverse）
 
 ### 雜湊應用
 - 安全性演算法（Security Algorithm）
