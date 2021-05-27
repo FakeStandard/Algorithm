@@ -39,25 +39,6 @@ namespace LinkedListInsert
 
             list1.Print();
 
-            // 建立第二個串列
-            LinkedList list2 = new LinkedList();
-            Node node9 = new Node(9);
-            Node node8 = new Node(8);
-            Node node7 = new Node(7);
-            list2.Insert(node9);
-            list2.Insert(node8);
-            list2.Insert(node7);
-
-            Write("第一個串列:");
-            list1.Print();
-            Write($"第二個串列:");
-            list2.Print();
-
-            Write("串接後:");
-            list1.Concatenate(list1, list2);
-
-            list1.Print();
-
             ReadLine();
         }
     }
@@ -119,28 +100,6 @@ namespace LinkedListInsert
         public bool IsEmpty()
         {
             return first == null;
-        }
-
-        /// <summary>
-        /// 串接兩個鏈結串列
-        /// </summary>
-        /// <param name="node1"></param>
-        /// <param name="node2"></param>
-        /// <returns></returns>
-        public LinkedList Concatenate(LinkedList list1, LinkedList list2)
-        {
-            // 宣告且建立一個新串列
-            LinkedList ptr;
-
-            // 將欲串接的第一個串列指給新串列
-            ptr = list1;
-
-            while (ptr.last.next != null)
-                ptr.last = ptr.last.next;
-
-            ptr.last.next = list2.first;
-
-            return list1;
         }
 
         /// <summary>
