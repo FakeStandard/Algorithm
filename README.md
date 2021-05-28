@@ -72,3 +72,4 @@ https://fakestandard.github.io/algorithm/
 - 二元搜尋樹（Binary Search Tree）
 - 二元樹插入節點（Binary Tree Insert Node）
 - 二元樹刪除節點（Binary Tree Delete Node）
+- 二元排序樹（Binary Sort Tree）
