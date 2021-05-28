@@ -68,3 +68,5 @@ https://fakestandard.github.io/algorithm/
 ### 樹的應用
 - 陣列實作二元樹（Array Implementation of Binary Tree）
 - 串列實作二元樹（Linked List Implementation of Binary Tree）
+- 二元樹走訪（Binary Tree Traversal）
+- 二元搜尋樹（Binary Search Tree）

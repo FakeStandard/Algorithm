@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayImplementationOfTree",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListImplementationOfTree", "LinkedListImplementationOfTree\LinkedListImplementationOfTree.csproj", "{8A3748FB-0F75-47CD-BAC4-743FB1C98076}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeTraversal", "BinaryTreeTraversal\BinaryTreeTraversal.csproj", "{1778F77D-D90B-4D9C-85D6-882A17DB078A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +207,10 @@ Global
 		{8A3748FB-0F75-47CD-BAC4-743FB1C98076}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A3748FB-0F75-47CD-BAC4-743FB1C98076}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A3748FB-0F75-47CD-BAC4-743FB1C98076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1778F77D-D90B-4D9C-85D6-882A17DB078A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1778F77D-D90B-4D9C-85D6-882A17DB078A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1778F77D-D90B-4D9C-85D6-882A17DB078A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1778F77D-D90B-4D9C-85D6-882A17DB078A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -240,6 +246,7 @@ Global
 		{8895B3D4-7980-4559-9B6C-80B3A0FF7C42} = {7CE6D40C-7A9F-463F-878E-2E36E6F95E32}
 		{CB053225-7355-493C-A94C-08DBB105E6FB} = {DD2114DB-8201-495F-886E-90297B78BC22}
 		{8A3748FB-0F75-47CD-BAC4-743FB1C98076} = {DD2114DB-8201-495F-886E-90297B78BC22}
+		{1778F77D-D90B-4D9C-85D6-882A17DB078A} = {DD2114DB-8201-495F-886E-90297B78BC22}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F58DDB3-8273-4EE6-9243-1D2971C1BED1}
