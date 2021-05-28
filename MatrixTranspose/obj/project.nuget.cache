@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mc8S6BTsNHnu4HgP6OIJ80+ZGvCpianAhos1nW8h329ogvicp8S9aBwWeAe1llSCxW60Dy7oobcC9MaX8eKn/g==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\MatrixTranspose\\MatrixTranspose.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

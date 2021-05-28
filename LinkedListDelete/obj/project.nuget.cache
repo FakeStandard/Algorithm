@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jv6Qs/cDZxlLspCEncalx8MDhzOOw0uf3nopcFISAUvIQ7vrhJ7/+L+E5B8YEw+NghDdrGxenm0ySGKi5ImVQQ==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\LinkedListDelete\\LinkedListDelete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

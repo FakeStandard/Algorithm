@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Z5PkW/9ZiemmRGNAwhUhlf4ZNjo9yK0mJkmtMjT6/JNFW1YVRCy5rXqjzM2tqem7N6fUHFqy2DNNaQ5Uf8NGA==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\TowerOfHanoi\\TowerOfHanoi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+bUpdP18Nnp6WUW6CgU1JJU9OVLOrgk7vMzlK0wbsx4n4RSV+h476P3uGMcyveo/4w6CETwne6AqS+MXJs7Tw==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\MergeSort\\MergeSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
