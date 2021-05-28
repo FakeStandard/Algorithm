@@ -70,4 +70,5 @@ https://fakestandard.github.io/algorithm/
 - 串列實作二元樹（Linked List Implementation of Binary Tree）
 - 二元樹走訪（Binary Tree Traversal）
 - 二元搜尋樹（Binary Search Tree）
-- 二元樹插入與刪除節點（Binary Tree Insert and Delete Node）
+- 二元樹插入節點（Binary Tree Insert Node）
+- 二元樹刪除節點（Binary Tree Delete Node）

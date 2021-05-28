@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCZDUMdz7Jl81MGTIpEzPLTs7U7AWAeSjeZC0QoCsuMHiwSVSMQP2ORnUq3Gu7vAaCq9lCYOys+ufVjs+MsVZA==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\BinarySortTree\\BinarySortTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
