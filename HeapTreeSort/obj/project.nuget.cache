@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8AnYR84nUnoQRy+PvZpA4fBG3xv8zeawNRKBWuJyuTsTKs4yLokIEqLyARiZtXFD7Mo3fE6vqNXqf9yWU//lA==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\HeapTreeSort\\HeapTreeSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

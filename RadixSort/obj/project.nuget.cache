@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jXaXb5b69kAMTNI0aAQzWucjbNwqn/tMW0kKnPcWWbdAjybRsTZFukxaLYJmrsVQLeE6Qi1+RDP3t6IcGSqY3Q==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\RadixSort\\RadixSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

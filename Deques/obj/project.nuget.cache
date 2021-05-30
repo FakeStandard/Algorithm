@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NGbZKAT5tZ89ZkHJJVtdAmLHWytKy5QnO2fqNHNq8cylvNQyCHGKOWWN94t9UFczuCIAEjwyellXM9/I4JM8Fg==",
+  "success": true,
+  "projectFilePath": "D:\\2.Project\\SideProject\\Algorithm\\Deques\\Deques.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
