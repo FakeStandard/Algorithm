@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySortTree", "BinarySor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deques", "Deques\Deques.csproj", "{6EFB74EE-BA0F-4A55-BCB5-CECFE2814B2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSearch", "FibonacciSearch\FibonacciSearch.csproj", "{EA84E17F-E65D-44C5-98F4-B1A4EF8E1420}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -235,6 +237,10 @@ Global
 		{6EFB74EE-BA0F-4A55-BCB5-CECFE2814B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EFB74EE-BA0F-4A55-BCB5-CECFE2814B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EFB74EE-BA0F-4A55-BCB5-CECFE2814B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA84E17F-E65D-44C5-98F4-B1A4EF8E1420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA84E17F-E65D-44C5-98F4-B1A4EF8E1420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA84E17F-E65D-44C5-98F4-B1A4EF8E1420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA84E17F-E65D-44C5-98F4-B1A4EF8E1420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -275,6 +281,7 @@ Global
 		{C19AA15E-4B36-41A3-93EB-0851AAC07D3F} = {DD2114DB-8201-495F-886E-90297B78BC22}
 		{A3BD137D-EECB-4235-88F1-1DC45D9C81EA} = {DD2114DB-8201-495F-886E-90297B78BC22}
 		{6EFB74EE-BA0F-4A55-BCB5-CECFE2814B2C} = {057F9178-A404-45FD-B8B7-5AF0B8E02EFF}
+		{EA84E17F-E65D-44C5-98F4-B1A4EF8E1420} = {CB55527D-0A59-4AC5-A46F-A10C273A4561}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F58DDB3-8273-4EE6-9243-1D2971C1BED1}
