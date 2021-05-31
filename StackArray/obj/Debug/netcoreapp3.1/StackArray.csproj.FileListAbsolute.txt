@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\StackArray\bin\Debug\netcoreapp3.1\StackArray.exe
+D:\2.Project\SideProject\Algorithm\StackArray\bin\Debug\netcoreapp3.1\StackArray.deps.json
+D:\2.Project\SideProject\Algorithm\StackArray\bin\Debug\netcoreapp3.1\StackArray.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\StackArray\bin\Debug\netcoreapp3.1\StackArray.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\StackArray\bin\Debug\netcoreapp3.1\StackArray.dll
+D:\2.Project\SideProject\Algorithm\StackArray\bin\Debug\netcoreapp3.1\StackArray.pdb
+D:\2.Project\SideProject\Algorithm\StackArray\obj\Debug\netcoreapp3.1\StackArray.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\StackArray\obj\Debug\netcoreapp3.1\StackArray.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\StackArray\obj\Debug\netcoreapp3.1\StackArray.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\StackArray\obj\Debug\netcoreapp3.1\StackArray.dll
+D:\2.Project\SideProject\Algorithm\StackArray\obj\Debug\netcoreapp3.1\StackArray.pdb
+D:\2.Project\SideProject\Algorithm\StackArray\obj\Debug\netcoreapp3.1\StackArray.genruntimeconfig.cache
