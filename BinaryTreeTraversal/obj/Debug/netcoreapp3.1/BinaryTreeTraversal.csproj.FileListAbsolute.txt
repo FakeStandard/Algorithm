@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\bin\Debug\netcoreapp3.1\BinaryTreeTraversal.exe
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\bin\Debug\netcoreapp3.1\BinaryTreeTraversal.deps.json
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\bin\Debug\netcoreapp3.1\BinaryTreeTraversal.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\bin\Debug\netcoreapp3.1\BinaryTreeTraversal.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\bin\Debug\netcoreapp3.1\BinaryTreeTraversal.dll
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\bin\Debug\netcoreapp3.1\BinaryTreeTraversal.pdb
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\obj\Debug\netcoreapp3.1\BinaryTreeTraversal.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\obj\Debug\netcoreapp3.1\BinaryTreeTraversal.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\obj\Debug\netcoreapp3.1\BinaryTreeTraversal.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\obj\Debug\netcoreapp3.1\BinaryTreeTraversal.dll
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\obj\Debug\netcoreapp3.1\BinaryTreeTraversal.pdb
+D:\2.Project\SideProject\Algorithm\BinaryTreeTraversal\obj\Debug\netcoreapp3.1\BinaryTreeTraversal.genruntimeconfig.cache

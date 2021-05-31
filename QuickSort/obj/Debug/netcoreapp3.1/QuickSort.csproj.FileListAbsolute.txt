@@ -1,0 +1,13 @@
+D:\2.Project\SideProject\Algorithm\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+D:\2.Project\SideProject\Algorithm\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+D:\2.Project\SideProject\Algorithm\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+D:\2.Project\SideProject\Algorithm\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+D:\2.Project\SideProject\Algorithm\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csprojAssemblyReference.cache
+D:\2.Project\SideProject\Algorithm\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+D:\2.Project\SideProject\Algorithm\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
+D:\2.Project\SideProject\Algorithm\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\bin\Debug\netcoreapp3.1\ArrayImplementationOfTree.exe
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\bin\Debug\netcoreapp3.1\ArrayImplementationOfTree.deps.json
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\bin\Debug\netcoreapp3.1\ArrayImplementationOfTree.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\bin\Debug\netcoreapp3.1\ArrayImplementationOfTree.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\bin\Debug\netcoreapp3.1\ArrayImplementationOfTree.dll
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\bin\Debug\netcoreapp3.1\ArrayImplementationOfTree.pdb
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\obj\Debug\netcoreapp3.1\ArrayImplementationOfTree.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\obj\Debug\netcoreapp3.1\ArrayImplementationOfTree.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\obj\Debug\netcoreapp3.1\ArrayImplementationOfTree.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\obj\Debug\netcoreapp3.1\ArrayImplementationOfTree.dll
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\obj\Debug\netcoreapp3.1\ArrayImplementationOfTree.pdb
+D:\2.Project\SideProject\Algorithm\ArrayImplementationOfTree\obj\Debug\netcoreapp3.1\ArrayImplementationOfTree.genruntimeconfig.cache

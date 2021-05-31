@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\bin\Debug\netcoreapp3.1\BinaryTreeInsert.exe
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\bin\Debug\netcoreapp3.1\BinaryTreeInsert.deps.json
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\bin\Debug\netcoreapp3.1\BinaryTreeInsert.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\bin\Debug\netcoreapp3.1\BinaryTreeInsert.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\bin\Debug\netcoreapp3.1\BinaryTreeInsert.dll
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\bin\Debug\netcoreapp3.1\BinaryTreeInsert.pdb
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\obj\Debug\netcoreapp3.1\BinaryTreeInsert.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\obj\Debug\netcoreapp3.1\BinaryTreeInsert.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\obj\Debug\netcoreapp3.1\BinaryTreeInsert.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\obj\Debug\netcoreapp3.1\BinaryTreeInsert.dll
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\obj\Debug\netcoreapp3.1\BinaryTreeInsert.pdb
+D:\2.Project\SideProject\Algorithm\BinaryTreeInsert\obj\Debug\netcoreapp3.1\BinaryTreeInsert.genruntimeconfig.cache

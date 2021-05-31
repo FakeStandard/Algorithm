@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\BinarySortTree\bin\Debug\netcoreapp3.1\BinarySortTree.exe
+D:\2.Project\SideProject\Algorithm\BinarySortTree\bin\Debug\netcoreapp3.1\BinarySortTree.deps.json
+D:\2.Project\SideProject\Algorithm\BinarySortTree\bin\Debug\netcoreapp3.1\BinarySortTree.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\BinarySortTree\bin\Debug\netcoreapp3.1\BinarySortTree.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\BinarySortTree\bin\Debug\netcoreapp3.1\BinarySortTree.dll
+D:\2.Project\SideProject\Algorithm\BinarySortTree\bin\Debug\netcoreapp3.1\BinarySortTree.pdb
+D:\2.Project\SideProject\Algorithm\BinarySortTree\obj\Debug\netcoreapp3.1\BinarySortTree.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\BinarySortTree\obj\Debug\netcoreapp3.1\BinarySortTree.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\BinarySortTree\obj\Debug\netcoreapp3.1\BinarySortTree.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\BinarySortTree\obj\Debug\netcoreapp3.1\BinarySortTree.dll
+D:\2.Project\SideProject\Algorithm\BinarySortTree\obj\Debug\netcoreapp3.1\BinarySortTree.pdb
+D:\2.Project\SideProject\Algorithm\BinarySortTree\obj\Debug\netcoreapp3.1\BinarySortTree.genruntimeconfig.cache

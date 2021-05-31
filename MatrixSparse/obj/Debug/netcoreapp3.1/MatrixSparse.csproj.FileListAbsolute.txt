@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\MatrixSparse\bin\Debug\netcoreapp3.1\MatrixSparse.exe
+D:\2.Project\SideProject\Algorithm\MatrixSparse\bin\Debug\netcoreapp3.1\MatrixSparse.deps.json
+D:\2.Project\SideProject\Algorithm\MatrixSparse\bin\Debug\netcoreapp3.1\MatrixSparse.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\MatrixSparse\bin\Debug\netcoreapp3.1\MatrixSparse.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\MatrixSparse\bin\Debug\netcoreapp3.1\MatrixSparse.dll
+D:\2.Project\SideProject\Algorithm\MatrixSparse\bin\Debug\netcoreapp3.1\MatrixSparse.pdb
+D:\2.Project\SideProject\Algorithm\MatrixSparse\obj\Debug\netcoreapp3.1\MatrixSparse.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\MatrixSparse\obj\Debug\netcoreapp3.1\MatrixSparse.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\MatrixSparse\obj\Debug\netcoreapp3.1\MatrixSparse.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\MatrixSparse\obj\Debug\netcoreapp3.1\MatrixSparse.dll
+D:\2.Project\SideProject\Algorithm\MatrixSparse\obj\Debug\netcoreapp3.1\MatrixSparse.pdb
+D:\2.Project\SideProject\Algorithm\MatrixSparse\obj\Debug\netcoreapp3.1\MatrixSparse.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\Shuffle\bin\Debug\netcoreapp3.1\Shuffle.exe
+D:\2.Project\SideProject\Algorithm\Shuffle\bin\Debug\netcoreapp3.1\Shuffle.deps.json
+D:\2.Project\SideProject\Algorithm\Shuffle\bin\Debug\netcoreapp3.1\Shuffle.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\Shuffle\bin\Debug\netcoreapp3.1\Shuffle.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\Shuffle\bin\Debug\netcoreapp3.1\Shuffle.dll
+D:\2.Project\SideProject\Algorithm\Shuffle\bin\Debug\netcoreapp3.1\Shuffle.pdb
+D:\2.Project\SideProject\Algorithm\Shuffle\obj\Debug\netcoreapp3.1\Shuffle.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\Shuffle\obj\Debug\netcoreapp3.1\Shuffle.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\Shuffle\obj\Debug\netcoreapp3.1\Shuffle.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\Shuffle\obj\Debug\netcoreapp3.1\Shuffle.dll
+D:\2.Project\SideProject\Algorithm\Shuffle\obj\Debug\netcoreapp3.1\Shuffle.pdb
+D:\2.Project\SideProject\Algorithm\Shuffle\obj\Debug\netcoreapp3.1\Shuffle.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\2.Project\SideProject\Algorithm\QueueList\bin\Debug\netcoreapp3.1\QueueList.exe
+D:\2.Project\SideProject\Algorithm\QueueList\bin\Debug\netcoreapp3.1\QueueList.deps.json
+D:\2.Project\SideProject\Algorithm\QueueList\bin\Debug\netcoreapp3.1\QueueList.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\QueueList\bin\Debug\netcoreapp3.1\QueueList.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\QueueList\bin\Debug\netcoreapp3.1\QueueList.dll
+D:\2.Project\SideProject\Algorithm\QueueList\bin\Debug\netcoreapp3.1\QueueList.pdb
+D:\2.Project\SideProject\Algorithm\QueueList\obj\Debug\netcoreapp3.1\QueueList.csprojAssemblyReference.cache
+D:\2.Project\SideProject\Algorithm\QueueList\obj\Debug\netcoreapp3.1\QueueList.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\QueueList\obj\Debug\netcoreapp3.1\QueueList.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\QueueList\obj\Debug\netcoreapp3.1\QueueList.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\QueueList\obj\Debug\netcoreapp3.1\QueueList.dll
+D:\2.Project\SideProject\Algorithm\QueueList\obj\Debug\netcoreapp3.1\QueueList.pdb
+D:\2.Project\SideProject\Algorithm\QueueList\obj\Debug\netcoreapp3.1\QueueList.genruntimeconfig.cache

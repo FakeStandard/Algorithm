@@ -1,0 +1,12 @@
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\bin\Debug\netcoreapp3.1\LinkedListReverse.exe
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\bin\Debug\netcoreapp3.1\LinkedListReverse.deps.json
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\bin\Debug\netcoreapp3.1\LinkedListReverse.runtimeconfig.json
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\bin\Debug\netcoreapp3.1\LinkedListReverse.runtimeconfig.dev.json
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\bin\Debug\netcoreapp3.1\LinkedListReverse.dll
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\bin\Debug\netcoreapp3.1\LinkedListReverse.pdb
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\obj\Debug\netcoreapp3.1\LinkedListReverse.AssemblyInfoInputs.cache
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\obj\Debug\netcoreapp3.1\LinkedListReverse.AssemblyInfo.cs
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\obj\Debug\netcoreapp3.1\LinkedListReverse.csproj.CoreCompileInputs.cache
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\obj\Debug\netcoreapp3.1\LinkedListReverse.dll
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\obj\Debug\netcoreapp3.1\LinkedListReverse.pdb
+D:\2.Project\SideProject\Algorithm\LinkedListReverse\obj\Debug\netcoreapp3.1\LinkedListReverse.genruntimeconfig.cache
