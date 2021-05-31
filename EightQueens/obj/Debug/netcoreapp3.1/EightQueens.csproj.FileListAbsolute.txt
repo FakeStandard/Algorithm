@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\EightQueens\bin\Debug\netcoreapp3.1\EightQuee
 D:\2.Project\SideProject\Algorithm\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.dll
 D:\2.Project\SideProject\Algorithm\EightQueens\bin\Debug\netcoreapp3.1\EightQueens.pdb
-D:\2.Project\SideProject\Algorithm\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\EightQueens\obj\Debug\netcoreapp3.1\EightQueens.csproj.CoreCompileInputs.cache

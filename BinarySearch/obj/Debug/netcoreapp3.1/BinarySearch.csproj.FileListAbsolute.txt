@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\BinarySearch\bin\Debug\netcoreapp3.1\BinarySe
 D:\2.Project\SideProject\Algorithm\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
 D:\2.Project\SideProject\Algorithm\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
-D:\2.Project\SideProject\Algorithm\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache

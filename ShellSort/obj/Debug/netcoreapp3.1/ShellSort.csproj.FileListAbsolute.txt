@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.r
 D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.dll
 D:\2.Project\SideProject\Algorithm\ShellSort\bin\Debug\netcoreapp3.1\ShellSort.pdb
-D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\ShellSort\obj\Debug\netcoreapp3.1\ShellSort.csproj.CoreCompileInputs.cache

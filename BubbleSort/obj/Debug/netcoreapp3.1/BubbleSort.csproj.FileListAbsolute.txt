@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort
 D:\2.Project\SideProject\Algorithm\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
 D:\2.Project\SideProject\Algorithm\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
-D:\2.Project\SideProject\Algorithm\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache

@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.r
 D:\2.Project\SideProject\Algorithm\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
 D:\2.Project\SideProject\Algorithm\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
-D:\2.Project\SideProject\Algorithm\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.CoreCompileInputs.cache

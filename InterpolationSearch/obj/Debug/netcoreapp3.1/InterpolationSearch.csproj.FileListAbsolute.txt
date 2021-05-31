@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\InterpolationSearch\bin\Debug\netcoreapp3.1\I
 D:\2.Project\SideProject\Algorithm\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.dll
 D:\2.Project\SideProject\Algorithm\InterpolationSearch\bin\Debug\netcoreapp3.1\InterpolationSearch.pdb
-D:\2.Project\SideProject\Algorithm\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\InterpolationSearch\obj\Debug\netcoreapp3.1\InterpolationSearch.csproj.CoreCompileInputs.cache

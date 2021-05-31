@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\SelectionSort\bin\Debug\netcoreapp3.1\Selecti
 D:\2.Project\SideProject\Algorithm\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
 D:\2.Project\SideProject\Algorithm\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
-D:\2.Project\SideProject\Algorithm\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache

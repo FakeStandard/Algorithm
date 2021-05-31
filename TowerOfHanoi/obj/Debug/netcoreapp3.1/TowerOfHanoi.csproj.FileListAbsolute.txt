@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\TowerOfHanoi\bin\Debug\netcoreapp3.1\TowerOfH
 D:\2.Project\SideProject\Algorithm\TowerOfHanoi\bin\Debug\netcoreapp3.1\TowerOfHanoi.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\TowerOfHanoi\bin\Debug\netcoreapp3.1\TowerOfHanoi.dll
 D:\2.Project\SideProject\Algorithm\TowerOfHanoi\bin\Debug\netcoreapp3.1\TowerOfHanoi.pdb
-D:\2.Project\SideProject\Algorithm\TowerOfHanoi\obj\Debug\netcoreapp3.1\TowerOfHanoi.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\TowerOfHanoi\obj\Debug\netcoreapp3.1\TowerOfHanoi.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\TowerOfHanoi\obj\Debug\netcoreapp3.1\TowerOfHanoi.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\TowerOfHanoi\obj\Debug\netcoreapp3.1\TowerOfHanoi.csproj.CoreCompileInputs.cache

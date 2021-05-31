@@ -4,7 +4,6 @@ D:\2.Project\SideProject\Algorithm\HeapTreeSort\bin\Debug\netcoreapp3.1\HeapTree
 D:\2.Project\SideProject\Algorithm\HeapTreeSort\bin\Debug\netcoreapp3.1\HeapTreeSort.runtimeconfig.dev.json
 D:\2.Project\SideProject\Algorithm\HeapTreeSort\bin\Debug\netcoreapp3.1\HeapTreeSort.dll
 D:\2.Project\SideProject\Algorithm\HeapTreeSort\bin\Debug\netcoreapp3.1\HeapTreeSort.pdb
-D:\2.Project\SideProject\Algorithm\HeapTreeSort\obj\Debug\netcoreapp3.1\HeapTreeSort.csprojAssemblyReference.cache
 D:\2.Project\SideProject\Algorithm\HeapTreeSort\obj\Debug\netcoreapp3.1\HeapTreeSort.AssemblyInfoInputs.cache
 D:\2.Project\SideProject\Algorithm\HeapTreeSort\obj\Debug\netcoreapp3.1\HeapTreeSort.AssemblyInfo.cs
 D:\2.Project\SideProject\Algorithm\HeapTreeSort\obj\Debug\netcoreapp3.1\HeapTreeSort.csproj.CoreCompileInputs.cache
