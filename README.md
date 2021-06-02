@@ -73,3 +73,10 @@ https://fakestandard.github.io/algorithm/
 - 二元樹插入節點（Binary Tree Insert Node）
 - 二元樹刪除節點（Binary Tree Delete Node）
 - 二元排序樹（Binary Sort Tree）
+
+### 圖的應用
+- 圖形表示法
+  - 相鄰矩陣法
+  - 相鄰串列法
+- 深度優先搜尋法（Depth First Search, DFS）
+- 廣度優先搜尋法（Breadth First Search, BFS）
