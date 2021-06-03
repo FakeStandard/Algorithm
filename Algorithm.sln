@@ -93,9 +93,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciSearch", "Fibonacc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImplementationGraph", "ImplementationGraph", "{9B6A4287-981B-4E53-AB1C-254BABDDC461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{BA53FDA8-4957-41AE-9F4E-A16DA95B07F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthFirstSearch", "DepthFirstSearch\DepthFirstSearch.csproj", "{BA53FDA8-4957-41AE-9F4E-A16DA95B07F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdjacencyMatrix", "AdjacencyMatrix\AdjacencyMatrix.csproj", "{79C68143-5718-4479-B88B-5493AD21DF5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdjacencyMatrix", "AdjacencyMatrix\AdjacencyMatrix.csproj", "{79C68143-5718-4479-B88B-5493AD21DF5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.csproj", "{C192F288-16F2-48AD-BC98-B47713177AE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{79C68143-5718-4479-B88B-5493AD21DF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C68143-5718-4479-B88B-5493AD21DF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C68143-5718-4479-B88B-5493AD21DF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C192F288-16F2-48AD-BC98-B47713177AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C192F288-16F2-48AD-BC98-B47713177AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C192F288-16F2-48AD-BC98-B47713177AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C192F288-16F2-48AD-BC98-B47713177AE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -298,6 +304,7 @@ Global
 		{EA84E17F-E65D-44C5-98F4-B1A4EF8E1420} = {CB55527D-0A59-4AC5-A46F-A10C273A4561}
 		{BA53FDA8-4957-41AE-9F4E-A16DA95B07F9} = {9B6A4287-981B-4E53-AB1C-254BABDDC461}
 		{79C68143-5718-4479-B88B-5493AD21DF5F} = {9B6A4287-981B-4E53-AB1C-254BABDDC461}
+		{C192F288-16F2-48AD-BC98-B47713177AE3} = {9B6A4287-981B-4E53-AB1C-254BABDDC461}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7F58DDB3-8273-4EE6-9243-1D2971C1BED1}
