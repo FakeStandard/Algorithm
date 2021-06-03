@@ -76,7 +76,9 @@ https://fakestandard.github.io/algorithm/
 
 ### 圖的應用
 - 圖形表示法
-  - 相鄰矩陣法
-  - 相鄰串列法
+  - 相鄰矩陣法（Adjacency Matrix）
+  - 相鄰串列法（Adjacency List）
+  - 相鄰複合串列法（Adjacency Multilist）
+  - 索引表格法（Index Table）
 - 深度優先搜尋法（Depth First Search, DFS）
 - 廣度優先搜尋法（Breadth First Search, BFS）
