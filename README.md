@@ -73,6 +73,7 @@ https://fakestandard.github.io/algorithm/
 - 二元樹插入節點（Binary Tree Insert Node）
 - 二元樹刪除節點（Binary Tree Delete Node）
 - 二元排序樹（Binary Sort Tree）
+- 二元運算樹（Binary Expression Tree）
 
 ### 圖的應用
 - 圖形表示法
