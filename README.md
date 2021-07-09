@@ -17,7 +17,7 @@ https://fakestandard.github.io/algorithm/
 - 迭代演算法（Iterative Algorithm）
 - 遞迴演算法（Recursion Algorithm）
 - 動態規劃演算法（Dynamic Programming Algorithm）
-- 枚舉演算法（Exhaustive Searching Algorithm）
+- 枚舉演算法（Enumeration Algorithm）
 - 貪心演算法（Greedy Algorithm）
 - 回溯演算法（Backtracking Algorithm）
 
